@@ -1,0 +1,14 @@
+a, b, d, e : % :(* заводим целочисленные переменные *)
+c: ! :
+1a := 3 :
+b := a + 1 :
+if (begin a = != b; e := 4 end) (* a = != b *)
+readln h
+else c := false :
+for i := 1 to a + b step b = = 1
+b := b - 1 next :
+while (a)
+a := a - 1 :
+readln d :
+writeln d = = b :
+end
